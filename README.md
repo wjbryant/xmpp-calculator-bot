@@ -46,10 +46,6 @@ library. It will fallback to JavaScript if the library was not available during
 compilation, so the warning message about StringPrep bindings can be ignored.
 See https://github.com/node-xmpp/node-stringprep#installation.
 
-*Note: The project source code and all compiled dependencies are available for
-download as a zip archive at http://wjbryant.com/xmpp-bot.zip. This was
-compiled on my Windows 8.1 64-bit laptop with an AMD A10-5750M APU.*
-
 ### External Libraries Used
 
 The following node modules were used:

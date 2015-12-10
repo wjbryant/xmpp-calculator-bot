@@ -1,0 +1,8 @@
+{
+    "credentials": {
+        "jid": "username@dukgo.com",
+        "password": "",
+        "host": "dukgo.com",
+        "port": 5222
+    }
+}

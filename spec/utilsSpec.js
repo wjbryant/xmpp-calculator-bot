@@ -153,7 +153,7 @@ describe('utils module', function () {
             setVariable('n', 10, 'bill');
 
             expect(typeof utils.priv.variables.bill).toEqual('object');
-            expect(typeof utils.priv.variables.bill).not.toBeNull();
+            expect(utils.priv.variables.bill).not.toBeNull();
             expect(utils.priv.variables.bill.n).toEqual(10);
         });
 
